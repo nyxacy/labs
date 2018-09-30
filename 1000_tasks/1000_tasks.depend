@@ -1,4 +1,8 @@
 # depslib dependency file v1.0
-1514140574 source:e:\projects\1000_tasks\main.cpp
+1538341043 source:e:\projects\1000_tasks\main.cpp
 	<iostream>
+	<cmath>
+
+1538340624 e:\projects\1000_tasks\for.h
+	<cmath>
 
